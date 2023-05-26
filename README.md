@@ -17,10 +17,10 @@ This is a weather forecast app where you can find current weather details and we
 ### STEPS TO SETUP LOCAL BUILD OF FRONTEND:
 <hr>
  
-1. First Install the NPM Packages used in the project by running command  `npm start`.
+1. First Install the NPM Packages used in the project by running command  `npm install`.
 
 2. After this step , Just run one command : `npm start` -> It will start react server on local.
 
-3.Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+3. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
