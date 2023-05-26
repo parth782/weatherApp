@@ -8,6 +8,11 @@ Live Demo
 
 This is a weather forecast app where you can find current weather details and weather forcast of any places. To get the city's details GeoDB from Rapid API was implemented and fetch with OpenWeather API to get the weather's data. Tailwind CSS use to styling and responsive layout. 
 
+## Working
+
+1. This project has functionality to see weather forecast for the upcoming weeks.
+2. The search box has autocomplete functionality implemented using React useState hook.
+3. When the accordion is opened, we can see weather details in detail, such as maximum temperature, minimum temperature, wind speed, and humidity.
 ### Start and Setup
  Create one file `".env"`. Add the following contents: 
 
